@@ -1,2 +1,2 @@
-# Prashanth_Yerabati_PythonCodes
+# Py_PythonCodes
 Python Practice Codes
